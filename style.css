@@ -3,6 +3,8 @@ body {
 }
 h1 {
   text-align: center;
+#banner {
+  width: 100%;
 }
 p {
   text-align: center;
